@@ -5,10 +5,10 @@ Radiomics involves high-throughput extraction of large numbers of quantitative f
 Fig 1. (a) a Phantom (b) a Phantom MRI image (c) a healthy brain MRI
 
 ## References
-[1] Radiomics feature robustness as measured using an MRI phantom
+[1] Radiomics feature robustness as measured using an MRI phantom: 
 J. Lee, A. Steinmann, Y. Ding, H. Lee, C. Owens, J. Wang, J. Yang, D. Followill, R. Ger, D. Mackin, L. Court.
 Scientific Reports, 2021;11(1):3973,PMID: 33597610 
 
-[2] IBEX: an open infrastructure software platform to facilitate collaborative work in radiomics
+[2] IBEX: an open infrastructure software platform to facilitate collaborative work in radiomics: 
 Lifei Zhang, David V Fried, Xenia J Fave, Luke A Hunter, Jinzhong Yang, Laurence E Court
 Med Phys, 2015 Mar;42(3):1341-53. doi: 10.1118/1.4908210.
