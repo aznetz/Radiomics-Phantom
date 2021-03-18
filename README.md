@@ -10,5 +10,5 @@ J. Lee, A. Steinmann, Y. Ding, H. Lee, C. Owens, J. Wang, J. Yang, D. Followill,
 Scientific Reports, 2021;11(1):3973,PMID: 33597610 
 
 [2] IBEX: an open infrastructure software platform to facilitate collaborative work in radiomics
-Lifei Zhang 1, David V Fried 2, Xenia J Fave 2, Luke A Hunter 2, Jinzhong Yang 1, Laurence E Court
+Lifei Zhang, David V Fried, Xenia J Fave, Luke A Hunter, Jinzhong Yang, Laurence E Court
 Med Phys, 2015 Mar;42(3):1341-53. doi: 10.1118/1.4908210.
